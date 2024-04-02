@@ -1,0 +1,1 @@
+export const LIMIT_ORDER_ITEMS_PER_PAGE = 10;

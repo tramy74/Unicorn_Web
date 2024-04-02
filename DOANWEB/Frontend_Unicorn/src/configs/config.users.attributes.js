@@ -1,0 +1,4 @@
+const USER_ATTRIBUTES = {
+  PASSWORD_MIN_LENGTH: 8,
+};
+export default USER_ATTRIBUTES;

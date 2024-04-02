@@ -1,0 +1,1 @@
+export const LIMIT_VOUCHER_ITEMS_PER_PAGE = 10;
